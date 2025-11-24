@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<article id="art1">
+        
+    <title category="finanzas">El uso de la tarjeta de crédito a lo largo de los años</title>
+        
+
+    
+    <section category="estadisticas" id="sec2">
+                
+        <heading>Crecimiento del uso por década</heading>
+                
+        <paragraph category="texto">A continuación se muestra una tabla con los porcentajes aproximados de uso por década:</paragraph>
+                
+        <table category="datos">
+                        
+            <row category="anio">
+                                
+                <cell category="anio">1970</cell>
+                                
+                <cell category="uso">5%</cell>
+                            
+            </row>
+                        
+            <row category="anio">
+                                
+                <cell category="anio">1980</cell>
+                                
+                <cell category="uso">15%</cell>
+                            
+            </row>
+                        
+            <row category="anio">
+                                
+                <cell category="anio">1990</cell>
+                                
+                <cell category="uso">35%</cell>
+                            
+            </row>
+                        
+            <row category="anio">
+                                
+                <cell category="anio">2000</cell>
+                                
+                <cell category="uso">50%</cell>
+                            
+            </row>
+                        
+            <row category="anio">
+                                
+                <cell category="anio">2010</cell>
+                                
+                <cell category="uso">70%</cell>
+                            
+            </row>
+                        
+            <row category="anio">
+                                
+                <cell category="anio">2020</cell>
+                                
+                <cell category="uso">85%</cell>
+                            
+            </row>
+                    
+        </table>
+                
+        <paragraph category="texto">Se observa un crecimiento sostenido, especialmente con la adopción de pagos en línea.</paragraph>
+            
+    </section>
+        
+    <section category="consejos" id="sec3">
+                
+        <heading>Recomendaciones de uso</heading>
+                
+        <paragraph category="consejo">Es recomendable mantener un buen historial de pagos para evitar intereses elevados.</paragraph>
+                
+        <paragraph category="consejo">Comparar tarjetas y sus beneficios puede optimizar el uso financiero.</paragraph>
+            
+    </section>
+        
+    <paragraph category="conclusion">El uso de la tarjeta de crédito ha evolucionado de un recurso limitado a una herramienta común en todo el mundo.</paragraph>
+    
+    <section category="historia" id="sec1">
+                
+        <heading>Desarrollo de tarjetas digitales</heading>
+                
+        <paragraph category="intro">Con la llegada de la tecnología digital, surgieron nuevas formas de pagos con tarjeta.</paragraph>
+                
+        <paragraph category="intro">Esto permitió mayor seguridad y seguimiento de transacciones.</paragraph>
+            
+    </section>
+    <section category="estadisticas" id="sec5">
+                
+        <heading>Uso por año en tarjetas digitales</heading>
+                
+        <paragraph category="texto">A continuación se muestra un resumen de la adopción de tarjetas digitales:</paragraph>
+                
+        <table category="datos">
+                        
+            <row category="anio">
+                                
+                <cell category="anio">2015</cell>
+                                
+                <cell category="uso">20%</cell>
+                            
+            </row>
+                        
+            <row category="anio">
+                                
+                <cell category="anio">2018</cell>
+                                
+                <cell category="uso">45%</cell>
+                            
+            </row>
+                        
+            <row category="anio">
+                                
+                <cell category="anio">2021</cell>
+                                
+                <cell category="uso">70%</cell>
+                            
+            </row>
+                    
+        </table>
+                
+        <paragraph category="texto">El crecimiento ha sido exponencial con la expansión de aplicaciones de pago móvil.</paragraph>
+            
+    </section>
+    <section category="consejos" id="sec7">
+                
+        <heading>Seguridad en pagos digitales</heading>
+                
+        <paragraph category="consejo">Nunca compartas tu PIN y activa la verificación en dos pasos.</paragraph>
+                
+        <paragraph category="consejo">Revisa tus estados de cuenta regularmente para detectar movimientos sospechosos.</paragraph>
+            
+    </section>
+</article>

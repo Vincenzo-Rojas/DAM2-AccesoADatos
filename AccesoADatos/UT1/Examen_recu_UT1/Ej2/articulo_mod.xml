@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<article id="art1">
+        
+    <title category="finanzas">El uso de la tarjeta de crédito a lo largo de los años</title>
+        
+    <section category="historia" id="sec1">
+                
+        <heading>Orígenes y primeros años</heading>
+                
+        <paragraph category="intro">Las tarjetas de crédito comenzaron a popularizarse en los años 50...</paragraph>
+                
+        <paragraph category="intro">En sus primeros años, el uso estaba limitado a ciertos comercios y clientes selectos.</paragraph>
+            
+    </section>
+        
+    <section category="estadisticas" id="sec2">
+                
+        <heading>Crecimiento del uso por década</heading>
+                
+        <paragraph category="texto">A continuación se muestra una tabla con los porcentajes aproximados de uso por década:</paragraph>
+                
+        <table category="datos">
+                        
+            <row category="anio">
+                                
+                <cell category="anio">1970</cell>
+                                
+                <cell category="uso">5%</cell>
+                            
+            </row>
+                        
+            <row category="anio">
+                                
+                <cell category="anio">1980</cell>
+                                
+                <cell category="uso">15%</cell>
+                            
+            </row>
+                        
+            <row category="anio">
+                                
+                <cell category="anio">1990</cell>
+                                
+                <cell category="uso">35%</cell>
+                            
+            </row>
+                        
+            <row category="anio">
+                                
+                <cell category="anio">2000</cell>
+                                
+                <cell category="uso">50%</cell>
+                            
+            </row>
+                        
+            <row category="anio">
+                                
+                <cell category="anio">2010</cell>
+                                
+                <cell category="uso">70%</cell>
+                            
+            </row>
+                        
+            <row category="anio">
+                                
+                <cell category="anio">2020</cell>
+                                
+                <cell category="uso">85%</cell>
+                            
+            </row>
+                    
+        </table>
+                
+        <paragraph category="texto">Se observa un crecimiento sostenido, especialmente con la adopción de pagos en línea.</paragraph>
+            
+    </section>
+        
+    <section category="consejos" id="sec3">
+                
+        <heading>Recomendaciones de uso</heading>
+                
+        <paragraph category="consejo">Es recomendable mantener un buen historial de pagos para evitar intereses elevados.</paragraph>
+                
+        <paragraph category="consejo">Comparar tarjetas y sus beneficios puede optimizar el uso financiero.</paragraph>
+            
+        <paragraph category="consejo">recuerda no dejar al descubierto tu cuenta al pagar, para evitar intereses excesivos y situaciones no deseadas.</paragraph>
+    </section>
+        
+    <paragraph category="conclusion">El uso de la tarjeta de crédito ha evolucionado de un recurso limitado a una herramienta común en todo el mundo.</paragraph>
+    
+</article>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="art2">
+    <title category="finanzas">Nuevas tendencias en el uso de tarjetas</title>
+
+    <section id="sec1" category="historia">
+        <heading>Desarrollo de tarjetas digitales</heading>
+        <paragraph category="intro">Con la llegada de la tecnología digital, surgieron nuevas formas de pagos con tarjeta.</paragraph>
+        <paragraph category="intro">Esto permitió mayor seguridad y seguimiento de transacciones.</paragraph>
+    </section>
+
+    <section id="sec5" category="estadisticas">
+        <heading>Uso por año en tarjetas digitales</heading>
+        <paragraph category="texto">A continuación se muestra un resumen de la adopción de tarjetas digitales:</paragraph>
+        <table category="datos">
+            <row category="anio">
+                <cell category="anio">2015</cell>
+                <cell category="uso">20%</cell>
+            </row>
+            <row category="anio">
+                <cell category="anio">2018</cell>
+                <cell category="uso">45%</cell>
+            </row>
+            <row category="anio">
+                <cell category="anio">2021</cell>
+                <cell category="uso">70%</cell>
+            </row>
+        </table>
+        <paragraph category="texto">El crecimiento ha sido exponencial con la expansión de aplicaciones de pago móvil.</paragraph>
+    </section>
+
+    <section id="sec7" category="consejos">
+        <heading>Seguridad en pagos digitales</heading>
+        <paragraph category="consejo">Nunca compartas tu PIN y activa la verificación en dos pasos.</paragraph>
+        <paragraph category="consejo">Revisa tus estados de cuenta regularmente para detectar movimientos sospechosos.</paragraph>
+    </section>
+
+    <paragraph category="conclusion">El futuro de los pagos se centra en la digitalización y la seguridad de los usuarios.</paragraph>
+</article>
