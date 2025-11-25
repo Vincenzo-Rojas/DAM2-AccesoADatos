@@ -6,4 +6,4 @@ Branch: profesor-python - Rama dedicada al repositorio del profesor del Tema 2 (
 
 Branch: classwork - Rama dedicada a los ejercicios y prácticas del Tema 1 (y siguientes) de la asignatura "Acceso a Datos". Incluye pruebas, examenes, scripts...
 
-Branch: Labs - Dedicada a crear subramas para practicas grupales
+Branch: UT2-practica - Dedicada a la practica del tema 2 de la asignatura
