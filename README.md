@@ -5,7 +5,7 @@ Acceso a datos - UT1 - datos binarios, texto, java.nio/io.file y xml crear entor
 
 AAD - UT3 - entorno virtual y pip install peewee
 
-AAD - UT4 - venv + pip psycopg2 o psycopg2-binary + pip peewee + pip envite + .env(datosimportantes.txt) + playhouse + supabase(https://supabase.com/)
+AAD - UT4 - venv + pip install psycopg2 o psycopg2-binary + pip install peewee + pip install envyte + .env(datosimportantes.txt) + pip install playhouse + supabase(https://supabase.com/)
 
 # Metodos del Git
 git update-UT1-java : actualiza la rama profesor-UT1-java
