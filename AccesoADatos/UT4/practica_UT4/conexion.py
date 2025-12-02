@@ -8,6 +8,9 @@ db = PostgresqlDatabase(
     user=envyte.get("USER"),
     password=envyte.get("PASSWORD")
 )
+
+#print(envyte.get("DATABASE"), envyte.get("HOST"), envyte.get("PORT"), envyte.get("USER"), envyte.get("PASSWORD"))
+
 try:
     db.connect()
     print("Conexión exitosa")
