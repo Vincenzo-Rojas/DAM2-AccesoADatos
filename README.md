@@ -1,3 +1,4 @@
+Repositorio original: "https://github.com/Josemedvel/acceso-a-datos-python-25-26.git"
 Repositorio destinado a la práctica y desarrollo de ejercicios de la asignatura Acceso a Datos, del ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 Branch: profesor-UT1-java - Rama dedicada al repositorio del profesor del Tema 2 (y siguientes) de la asignatura "Acceso a Datos" en Java..
